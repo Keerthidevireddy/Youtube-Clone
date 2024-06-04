@@ -1,5 +1,5 @@
 # MyTube
-Mytube is a YouTube clone built with React JS and other exciting technologies! PewTube aims to provide a familiar user experience while showcasing various features commonly found in popular video-sharing platforms.
+Mytube is a YouTube clone built with React JS and other exciting technologies! MyTube aims to provide a familiar user experience while showcasing various features commonly found in popular video-sharing platforms.
 
 ## Technologies Used
 
