@@ -3,8 +3,6 @@ Mytube is a YouTube clone built with React JS and other exciting technologies! M
 
 ## Technologies Used
 
-MyTube utilizes the following technologies:
-
 1. **React JS**
 2. **Tailwind CSS**
 3. **React Router DOM**
@@ -17,4 +15,4 @@ MyTube utilizes the following technologies:
 10. **React Player**
 11. **Lazy Load Image**
 12. **Infinite Scroll**
-13. **React Skeleton**
+13. **ReactSkeleton**
